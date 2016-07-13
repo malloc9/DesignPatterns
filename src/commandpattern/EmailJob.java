@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.commandpattern;
+package commandpattern;
 
 public class EmailJob implements Job{
 

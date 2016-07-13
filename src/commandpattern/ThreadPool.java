@@ -1,4 +1,4 @@
-package com.javacodegeeks.patterns.commandpattern;
+package commandpattern;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
