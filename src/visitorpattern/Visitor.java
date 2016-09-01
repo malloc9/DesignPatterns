@@ -1,6 +1,7 @@
 package visitorpattern;
 
 public interface Visitor {
-	public void visit(HtmlElement element);
-	public void visit(HtmlParentElement parentElement);
+	void visit(HtmlElement element);
+
+	void visit(HtmlParentElement parentElement);
 }
